@@ -1,3 +1,3 @@
 # Hostel-Management Project
 
-In this project use C# , Windows Form , MVC and SQL
+In this project use C# , Windows Form , Master Page and SQL
